@@ -2,5 +2,5 @@
 
 ```shell
 # Creating a new Rust project
-cargo new <project_name>
+$ cargo new <project_name>
 ```
