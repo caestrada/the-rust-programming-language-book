@@ -1,0 +1,1 @@
+/Users/caestrada/Developer/Web2/2022-08-04_the-rust-programming-language-book/ch-04_understanding-ownership/ch-04_4-3_the-slice-type/target/debug/ch-04_4-3_the-slice-type: /Users/caestrada/Developer/Web2/2022-08-04_the-rust-programming-language-book/ch-04_understanding-ownership/ch-04_4-3_the-slice-type/src/main.rs
