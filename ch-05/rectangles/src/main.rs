@@ -17,6 +17,8 @@ impl Rectangle {
         self.width > other.width && self.height > other.height
     }
 
+    // This Associateed function behaves like a constructor. They also behave
+    // like a static method.
     fn square(size: u32) -> Self {
         Self {
             width: size,
